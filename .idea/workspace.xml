@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60691d4f-368f-4919-90e3-a507106410d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/POM/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Feature/Amazon.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Feature/Droppable.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/commonFiles/CommonMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinations/MyStepdefs.java" afterDir="false" />
-    </list>
+    <list default="true" id="60691d4f-368f-4919-90e3-a507106410d3" name="Changes" comment="started project, added base files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/naveendabas046/Java_Selenium_Framework.git",
+    "accountId": "bc1de4df-654f-4500-b683-145e37f50a3f"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -70,7 +63,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/study_center/github/javaPracticeProject",
+    "last_opened_file_path": "D:/study_center/github/Java_Selenium_Framework",
     "onboarding.tips.debug.path": "D:/study_center/github/CucumberSelenium/src/main/java/com/POM/Main.java",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
@@ -80,6 +73,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study_center\github\Java_Selenium_Framework\src\test" />
+      <recent name="D:\study_center\github\Java_Selenium_Framework\src\main\java" />
       <recent name="D:\study_center\github\CucumberSelenium\src\main\resources" />
     </key>
   </component>
@@ -89,7 +84,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Feature/Amazon.feature" />
       <option name="GLUE" value="stepDefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Java_Selenium_Cucumber_FrameWork" />
+      <module name="Java_Selenium_Framework" />
       <option name="NAME_FILTER" value="^get amazon 10\-20k mobile phone list$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^get amazon 10\-20k mobile phone list$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: get amazon 10-20k mobile phone list" />
@@ -109,7 +104,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Feature/Amazon.feature" />
       <option name="GLUE" value="stepDefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Java_Selenium_Cucumber_FrameWork" />
+      <module name="Java_Selenium_Framework" />
       <option name="NAME_FILTER" value="^get amazon 5\-10 mobile phone list$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^get amazon 5\-10 mobile phone list$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: get amazon 5-10 mobile phone list" />
@@ -129,7 +124,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/Feature/Amazon.feature" />
       <option name="GLUE" value="stepDefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Java_Selenium_Cucumber_FrameWork" />
+      <module name="Java_Selenium_Framework" />
       <option name="NAME_FILTER" value="^get flipkart Poco mobile phone list$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^get flipkart Poco mobile phone list$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: get flipkart Poco mobile phone list" />
@@ -149,7 +144,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/Feature/Droppable.feature" />
       <option name="GLUE" value="stepDefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Java_Selenium_Cucumber_FrameWork" />
+      <module name="Java_Selenium_Framework" />
       <option name="NAME_FILTER" value="^get flipkart Poco mobile phone list$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^get flipkart Poco mobile phone list$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: get flipkart Poco mobile phone list" />
@@ -169,7 +164,7 @@
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/Feature/Droppable.feature" />
       <option name="GLUE" value="stepDefinations" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="Java_Selenium_Cucumber_FrameWork" />
+      <module name="Java_Selenium_Framework" />
       <option name="NAME_FILTER" value="^get flipkart mobile phone list$" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^get flipkart mobile phone list$&quot;" />
       <option name="SUGGESTED_NAME" value="Scenario: get flipkart mobile phone list" />
@@ -203,14 +198,27 @@
       <option name="presentableId" value="Default" />
       <updated>1692718699217</updated>
     </task>
+    <task id="LOCAL-00001" summary="started project, added base files">
+      <option name="closed" value="true" />
+      <created>1713186347222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713186347222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="started project, added base files" />
+    <option name="LAST_COMMIT_MESSAGE" value="started project, added base files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/POM/Main.java</url>
-          <line>15</line>
+          <line>12</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
