@@ -13,3 +13,9 @@ Feature: Validate phone prices
     When I click on the "Mobiles" button
     And I click on the "₹10,000 - ₹20,000" button
     Then I print all devices names and prices
+
+
+  Scenario: get amazon Over ₹20,000 mobile phone list
+    When I click on the "Mobiles" button
+    And I click on the "Over ₹20,000" button
+    Then I print all devices names and prices
