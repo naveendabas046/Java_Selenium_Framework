@@ -38,3 +38,4 @@ build/
 .DS_Store
 
 logins.properties
+workspace.xml

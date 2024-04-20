@@ -13,3 +13,5 @@ Feature: Validate phone prices
     When I click on the "Mobiles" button
     And I click on the "₹10,000 - ₹20,000" button
     Then I print all devices names and prices
+
+    abc
